@@ -5,3 +5,5 @@ Hi - this is my first line
 Adding new feature to the "Dev1" 
 
 Fixed a major bug in prod version
+
+Fixed a minor bug-1 in prod version
